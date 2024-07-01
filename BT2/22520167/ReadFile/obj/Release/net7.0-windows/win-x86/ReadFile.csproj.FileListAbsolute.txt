@@ -1,0 +1,16 @@
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Release\net7.0-windows\win-x86\ReadFile.exe
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Release\net7.0-windows\win-x86\ReadFile.deps.json
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Release\net7.0-windows\win-x86\ReadFile.runtimeconfig.json
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Release\net7.0-windows\win-x86\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Release\net7.0-windows\win-x86\ReadFile.pdb
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.Form1.resources
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.AssemblyInfoInputs.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.AssemblyInfo.cs
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\refint\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.pdb
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ReadFile.genruntimeconfig.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Release\net7.0-windows\win-x86\ref\ReadFile.dll

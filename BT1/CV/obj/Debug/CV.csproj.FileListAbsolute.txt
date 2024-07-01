@@ -1,0 +1,15 @@
+D:\Save\Code\LapTrinhMang\BT1\CV\bin\Debug\CV.exe.config
+D:\Save\Code\LapTrinhMang\BT1\CV\bin\Debug\CV.exe
+D:\Save\Code\LapTrinhMang\BT1\CV\bin\Debug\CV.pdb
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.Form1.resources
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.exe
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.pdb
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.Buttonn.resources
+D:\Save\Code\LapTrinhMang\BT1\CV\bin\Debug\CV.exe.manifest
+D:\Save\Code\LapTrinhMang\BT1\CV\bin\Debug\CV.application
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.exe.manifest
+D:\Save\Code\LapTrinhMang\BT1\CV\obj\Debug\CV.application

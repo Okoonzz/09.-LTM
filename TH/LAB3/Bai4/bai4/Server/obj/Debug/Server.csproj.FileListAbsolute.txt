@@ -1,0 +1,10 @@
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\bin\Debug\Server.exe.config
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\bin\Debug\Server.exe
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\bin\Debug\Server.pdb
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.FormServer.resources
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.exe
+D:\Save\Code\LapTrinhMang\TH\LAB3\Bai4\bai4\Server\obj\Debug\Server.pdb

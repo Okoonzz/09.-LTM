@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27BA1E-64ED-477B-9697-18F53AF601BC}|createAPI.csproj|d:\\save\\code\\laptrinhmang\\th\\lab4\\createapi\\createapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EF27BA1E-64ED-477B-9697-18F53AF601BC}|createAPI.csproj|solutionrelative:createapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF27BA1E-64ED-477B-9697-18F53AF601BC}|createAPI.csproj|D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF27BA1E-64ED-477B-9697-18F53AF601BC}|createAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "createAPI.http",
+              "DocumentMoniker": "D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\createAPI.http",
+              "RelativeDocumentMoniker": "createAPI.http",
+              "ToolTip": "D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\createAPI.http",
+              "RelativeToolTip": "createAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T12:27:11.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Save\\Code\\LapTrinhMang\\TH\\LAB4\\createAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:18:47.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

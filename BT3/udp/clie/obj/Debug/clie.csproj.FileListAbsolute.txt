@@ -1,0 +1,10 @@
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\bin\Debug\clie.exe.config
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\bin\Debug\clie.exe
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\bin\Debug\clie.pdb
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.Cli.resources
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.exe
+D:\Save\Code\LapTrinhMang\BT3\udp\clie\obj\Debug\clie.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "au75QbpcMIvR4+v3t5B98f4f8GdcgJEInJD0H7I0iJBuQGq2xBLqAwtHOrBJbLDf1ohgO3piuMarg6tYKKOftg==",
+  "success": true,
+  "projectFilePath": "D:\\Save\\Code\\LapTrinhMang\\BT2\\ReadFile\\ReadFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}

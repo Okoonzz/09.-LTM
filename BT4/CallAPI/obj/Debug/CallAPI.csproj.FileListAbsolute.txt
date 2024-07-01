@@ -1,0 +1,13 @@
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\bin\Debug\CallAPI.exe.config
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\bin\Debug\CallAPI.exe
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\bin\Debug\CallAPI.pdb
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.Form1.resources
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.exe
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.pdb
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\bin\Debug\Newtonsoft.Json.dll
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\bin\Debug\Newtonsoft.Json.xml
+D:\Save\Code\LapTrinhMang\BT4\CallAPI\obj\Debug\CallAPI.csproj.Up2Date

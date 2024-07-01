@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CV.exe" version="1.0.0.0" publicKeyToken="e6da85d5830f30f2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CV.exe" size="1129904">
+      <assemblyIdentity name="CV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4ILK8vgsXaWDLJB5ppTxFM5BGCbUmL3bQ37JnrMYrGg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CV.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=OKOONZZ\Admin" issuerKeyHash="edd928622a266def0af21791a4b88429a7995284" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vGPjyvrI5hUPOmk4KWQ2uEiY+7tT0tSCZ4fse5eZdeA=</DigestValue></Reference></SignedInfo><SignatureValue>Bzlj3oDKGMLC0DtArCsmAtW+PwakxpqYiijQwPejfRSFEekZthfOrp3BsYu7V2z34FxtOJy1wL/WZ21EdsApY8AtUoo9gsvppKqz8yeL2JLtfv6CX5uA+AfAYzxr5lXhCMvkZ31yQlHmn3f78kvhu2WRioU/rd08t2QZwAHqaOE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wRAmpXUTd7hQWscyBUvYzm8hWKvAhlOE3hdowjS4CaOTF9Sdg3DDFVkXPC1PoJ3ELS9FfHCe1Z1rgGo9ePY0rSr5PCQabeWQ6/AOd69CFxubYMv4XHWbVcw7FdvdkuHw3LrH5zdPFuRJ1ZoqFoXsndvmgIto3te2ebZFXnwl8SE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e07599977bec876782d4d253bbfb9848b836642938693a0f15e6c8facae363bc" Description="" Url=""><as:assemblyIdentity name="CV.exe" version="1.0.0.0" publicKeyToken="e6da85d5830f30f2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OKOONZZ\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CtuKizaZPKr9AihHLXP0uWjbbbe0DV8CXrjMh0qkOmc=</DigestValue></Reference></SignedInfo><SignatureValue>Bolk/Da5LGBaSt3sB/RgqonyDAo04OJNAdonkFcxqQhSR+AMRBMB/+iqn4t6yiW+dqRNWw8icW/K3pJdzFZjensRV3LuUOpnHbg+FeP4JgGng+dm0jHWZAlQzu9E5m2hjFg9PSvJ7s/kR58ZPS+jdxviKnM9Ss+yJcEvy9Xr254=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wRAmpXUTd7hQWscyBUvYzm8hWKvAhlOE3hdowjS4CaOTF9Sdg3DDFVkXPC1PoJ3ELS9FfHCe1Z1rgGo9ePY0rSr5PCQabeWQ6/AOd69CFxubYMv4XHWbVcw7FdvdkuHw3LrH5zdPFuRJ1ZoqFoXsndvmgIto3te2ebZFXnwl8SE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQVkkhLbrINrxFWk9nZbLlwzANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoATwBLAE8ATwBOAFoAWgBcAEEAZABtAGkAbjAeFw0yNDAyMjkwNjE1MTRaFw0yNTAyMjgxMjE1MTRaMCUxIzAhBgNVBAMeGgBPAEsATwBPAE4AWgBaAFwAQQBkAG0AaQBuMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBECaldRN3uFBaxzIFS9jObyFYq8CGU4TeF2jCNLgJo5MX1J2DcMMVWRc8LU+gncQtL0V8cJ7VnWuAaj149jStKvk8JBpt5ZDr8A53r0IXG5tgy/hcdZtVzDsV292S4fDcusfnN08W5EnVmioWheyd2+aAi2je17Z5tkVefCXxIQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAGRvp/5iMi5z3xb0P018deiLDCDa5+L920hoqSDt7iYw5ZVTdZdt0xrI44aUlGnQIuvETwFImcMkn0nXOrBEvkc99LIYkdjxR6K1P03Mslf9U8iYelpAaZwQGcmMgmcVQ2QBbdpSBgO39GDs6dRvHmsZnJeR99+3zH+Ti1cl0rk4</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

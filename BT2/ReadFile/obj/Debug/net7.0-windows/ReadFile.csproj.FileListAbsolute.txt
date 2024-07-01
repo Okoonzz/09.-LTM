@@ -1,0 +1,16 @@
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Debug\net7.0-windows\ReadFile.exe
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Debug\net7.0-windows\ReadFile.deps.json
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Debug\net7.0-windows\ReadFile.runtimeconfig.json
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Debug\net7.0-windows\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\bin\Debug\net7.0-windows\ReadFile.pdb
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.Form1.resources
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.AssemblyInfoInputs.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.AssemblyInfo.cs
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\refint\ReadFile.dll
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.pdb
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ReadFile.genruntimeconfig.cache
+D:\Save\Code\LapTrinhMang\BT2\ReadFile\obj\Debug\net7.0-windows\ref\ReadFile.dll

@@ -1,0 +1,13 @@
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\createAPI.exe
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\createAPI.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\createAPI.deps.json
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\createAPI.runtimeconfig.json
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\createAPI.pdb
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\obj\Release\net8.0\PubTmp\Out\RGiesecke.DllExport.Metadata.dll

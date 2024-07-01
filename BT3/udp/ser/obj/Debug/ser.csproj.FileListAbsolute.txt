@@ -1,0 +1,10 @@
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\bin\Debug\ser.exe.config
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\bin\Debug\ser.exe
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\bin\Debug\ser.pdb
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.ser.resources
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.exe
+D:\Save\Code\LapTrinhMang\BT3\udp\ser\obj\Debug\ser.pdb

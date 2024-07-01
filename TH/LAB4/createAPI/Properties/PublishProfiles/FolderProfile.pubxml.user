@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Save\Code\LapTrinhMang\TH\LAB4\createAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>False|2024-05-15T17:21:54.8404672Z;False|2024-05-16T00:21:41.9765771+07:00;True|2024-05-15T20:45:56.5062581+07:00;True|2024-05-15T20:40:50.4347210+07:00;True|2024-05-15T20:39:26.0536859+07:00;True|2024-05-15T20:39:05.2297701+07:00;True|2024-05-15T20:38:11.4735574+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

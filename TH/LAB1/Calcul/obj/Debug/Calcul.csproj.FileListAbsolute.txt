@@ -1,0 +1,15 @@
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\bin\Debug\Calcul.exe.config
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\bin\Debug\Calcul.exe
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\bin\Debug\Calcul.pdb
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.csproj.AssemblyReference.cache
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Form1.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.csproj.GenerateResource.cache
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.csproj.CoreCompileInputs.cache
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.exe
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.pdb
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul._22520167BT2.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Form2.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Form3.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Form4.resources
+D:\Save\Code\LapTrinhMang\TH\LAB1\Calcul\obj\Debug\Calcul.Form5.resources
